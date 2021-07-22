@@ -1,4 +1,6 @@
-# TOSBI
+# TOSBI. Tiny Operative System Bioloid IUCTC
+
+Proyecto de fin de carrera de Jorge Hernández Ramírez
 
 ### Problema
 En el caso de que salga el error de "Fallo de Pila" significa que la pila de un proceso invadió a otra pila de otro proceso
